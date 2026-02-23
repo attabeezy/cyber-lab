@@ -1,4 +1,4 @@
-# Cyber-Lab-Bootcamp
+# VIA Cybersecurity Lab
 
 This repository contains work completed during an internship with the VIA Cybersecurity Lab at Kwame Nkrumah University of Science and Technology (KNUST). The internship covered practical training in computer networking, Linux system administration, and Python programming. Tasks and exercises from each area of study are organized into dedicated directories.
 
